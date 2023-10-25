@@ -17,7 +17,12 @@ If you now run the code you get the data out in your terminal. Then you can copy
 -----------------------------------------------------------------
 Task 2
 -----------------------------------------------------------------
+To run task 2, you should be in the folder where you have saved the file. 
+To run without any additional compilation flags type these commandoes into your terminal:
+  gcc task2.c
+  ./a.out
 
+The size of n can maximum be 2^9, and b i a range between 2^2 to 2^8.
   
    
  
